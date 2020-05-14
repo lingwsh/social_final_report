@@ -175,7 +175,6 @@ dependencies:
   - python-jsonrpc-server=0.3.4
   - python-language-server=0.31.9
   - python-libarchive-c=2.8
-  - python.app=2
   - pytz=2019.3
   - pywavelets=1.1.1
   - pyyaml=5.3.1
